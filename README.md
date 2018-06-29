@@ -9,3 +9,5 @@ Natural Language processing project to classify Yelp Reviews into 1 star or 5 st
 •	Performed exploratory analysis using Python’s seaborn library for data visualization
 
 •	Trained database using scikit-learn package and utilized functions Multinomial Naive’s Bayesian
+
+Received an accuracy of 92% using Multinomial Naive’s Bayesian Algorithm
